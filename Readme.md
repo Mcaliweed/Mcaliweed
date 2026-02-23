@@ -17,23 +17,115 @@
 ## 📊 GitHub Analytics & Stats Dashboard
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mcaliweed&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mcaliweed&theme=radical&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=9F9F9F&hide_border=true" />
+  <table>
+    <tr>
+      <td>
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=Mcaliweed&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mcaliweed&theme=radical&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=9F9F9F&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
+## 📈 Rising Contribution Graph
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcaliweed&layout=pie&theme=radical&title_color=FFD700&bg_color=0D1117&hide_border=true&langs_count=8" />
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mcaliweed&theme=radical" />
+  <h3>🌟 My Contribution Journey - Rising to the Stars 🌟</h3>
+  
+  <!-- Animated Rising Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mcaliweed&custom_title=Kelvin's%20Rising%20Contribution%20Graph&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true&height=300" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mcaliweed&custom_title=Kelvin's%20Rising%20Contribution%20Graph&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true&height=300" />
+  </picture>
+  
+  <!-- Rising Stars Animation -->
+  <div align="center">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+  </div>
+  
+  <br>
+  
+  <!-- 3D Contribution Calendar -->
+  <img src="https://github-contribution-calendar.vercel.app/api?username=Mcaliweed&theme=golden&height=200" width="100%" />
+  
+  <br>
+  
+  <!-- Contribution Sparkline -->
+  <img src="https://ghchart.rshah.org/FFD700/Mcaliweed" width="100%" />
 </div>
 
 <br>
 
-## 🔥 Contribution Streak & Activity
+## 🏆 GitHub Trophies (5 Exclusive Trophies)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mcaliweed&custom_title=Kelvin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true" width="100%" />
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <div style="background: linear-gradient(145deg, #0D1117, #1A1A2E); padding: 20px; border-radius: 15px; border: 2px solid #FFD700;">
+          <img src="https://github-profile-trophy.vercel.app/?username=Mcaliweed&row=1&column=1&theme=radical&no-frame=true&no-bg=true&margin-w=0&title=MultiLanguage" width="150" />
+          <br>
+          <h3 style="color: #FFD700;">🌐 Polyglot</h3>
+          <p>Master of Multiple Languages</p>
+          <img src="https://progress-bar.dev/95/?width=80&color=FFD700" />
+        </div>
+      </td>
+      <td align="center" width="20%">
+        <div style="background: linear-gradient(145deg, #0D1117, #1A1A2E); padding: 20px; border-radius: 15px; border: 2px solid #FFD700;">
+          <img src="https://github-profile-trophy.vercel.app/?username=Mcaliweed&row=1&column=1&theme=radical&no-frame=true&no-bg=true&margin-w=0&title=LongTimeUser" width="150" />
+          <br>
+          <h3 style="color: #FFD700;">⚡ Veteran</h3>
+          <p>Long-standing Contributor</p>
+          <img src="https://progress-bar.dev/92/?width=80&color=FFD700" />
+        </div>
+      </td>
+      <td align="center" width="20%">
+        <div style="background: linear-gradient(145deg, #0D1117, #1A1A2E); padding: 20px; border-radius: 15px; border: 2px solid #FFD700;">
+          <img src="https://github-profile-trophy.vercel.app/?username=Mcaliweed&row=1&column=1&theme=radical&no-frame=true&no-bg=true&margin-w=0&title=Stars" width="150" />
+          <br>
+          <h3 style="color: #FFD700;">⭐ Stargazer</h3>
+          <p>Most Starred Repositories</p>
+          <img src="https://progress-bar.dev/88/?width=80&color=FFD700" />
+        </div>
+      </td>
+      <td align="center" width="20%">
+        <div style="background: linear-gradient(145deg, #0D1117, #1A1A2E); padding: 20px; border-radius: 15px; border: 2px solid #FFD700;">
+          <img src="https://github-profile-trophy.vercel.app/?username=Mcaliweed&row=1&column=1&theme=radical&no-frame=true&no-bg=true&margin-w=0&title=Commits" width="150" />
+          <br>
+          <h3 style="color: #FFD700;">📊 Commit Master</h3>
+          <p>Highest Commit Count</p>
+          <img src="https://progress-bar.dev/96/?width=80&color=FFD700" />
+        </div>
+      </td>
+      <td align="center" width="20%">
+        <div style="background: linear-gradient(145deg, #0D1117, #1A1A2E); padding: 20px; border-radius: 15px; border: 2px solid #FFD700;">
+          <img src="https://github-profile-trophy.vercel.app/?username=Mcaliweed&row=1&column=1&theme=radical&no-frame=true&no-bg=true&margin-w=0&title=Repositories" width="150" />
+          <br>
+          <h3 style="color: #FFD700;">📦 Repository King</h3>
+          <p>Most Active Repositories</p>
+          <img src="https://progress-bar.dev/90/?width=80&color=FFD700" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🏆 Complete Trophy Collection
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Mcaliweed&theme=radical&no-frame=true&no-bg=true&column=3&row=2&margin-w=15&margin-h=15" width="600" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -44,19 +136,16 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Total%20Commits-1.2k+-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-        <br>
-        <img src="https://progress-bar.dev/85/?title=ACTIVITY&width=200&color=FFD700" />
+        <h3>💻 Coding Activity</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcaliweed&layout=pie&theme=radical&title_color=FFD700&bg_color=0D1117&hide_border=true&langs_count=8" width="300" />
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Repositories-25+-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-        <br>
-        <img src="https://progress-bar.dev/92/?title=PROJECTS&width=200&color=FFD700" />
+        <h3>🔥 Contribution Heatmap</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=Mcaliweed&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs" width="300" />
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Contributions-500+-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-        <br>
-        <img src="https://progress-bar.dev/78/?title=CONTRIBUTIONS&width=200&color=FFD700" />
+        <h3>📅 Monthly Activity</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mcaliweed&theme=radical" width="300" />
       </td>
     </tr>
   </table>
@@ -64,38 +153,15 @@
 
 <br>
 
-## 🏆 Achievement Showcase
+## 🔥 Contribution Streak & Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏅-Pull%20Shark-FFD700?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⭐-Star%20Champion-FFD700?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📦-Package%20Master-FFD700?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔄-Early%20Adopter-FFD700?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔧-Bug%20Hunter-FFD700?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💡-Idea%20Generator-FFD700?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mcaliweed&theme=radical&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=9F9F9F&hide_border=true" width="100%" />
 </div>
 
 <br>
 
-## 📅 Weekly Development Breakdown
+## 📊 Weekly Development Breakdown
 
 <div align="center">
   <table>
@@ -103,64 +169,56 @@
       <th>Language</th>
       <th>Hours</th>
       <th>Progress</th>
+      <th>Commits</th>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
       <td>25 hrs</td>
-      <td><img src="https://progress-bar.dev/85/?width=200&color=FFD700" /></td>
+      <td><img src="https://progress-bar.dev/85/?width=150&color=FFD700" /></td>
+      <td>156 commits</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></td>
       <td>18 hrs</td>
-      <td><img src="https://progress-bar.dev/70/?width=200&color=FFD700" /></td>
+      <td><img src="https://progress-bar.dev/70/?width=150&color=FFD700" /></td>
+      <td>98 commits</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></td>
       <td>15 hrs</td>
-      <td><img src="https://progress-bar.dev/95/?width=200&color=FFD700" /></td>
+      <td><img src="https://progress-bar.dev/95/?width=150&color=FFD700" /></td>
+      <td>134 commits</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></td>
       <td>12 hrs</td>
-      <td><img src="https://progress-bar.dev/92/?width=200&color=FFD700" /></td>
+      <td><img src="https://progress-bar.dev/92/?width=150&color=FFD700" /></td>
+      <td>112 commits</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td>
       <td>10 hrs</td>
-      <td><img src="https://progress-bar.dev/75/?width=200&color=FFD700" /></td>
+      <td><img src="https://progress-bar.dev/75/?width=150&color=FFD700" /></td>
+      <td>67 commits</td>
     </tr>
   </table>
 </div>
 
 <br>
 
-## 🚀 Project Performance Metrics
+## 🚀 Rising Star Metrics
 
 <div align="center">
   <table>
     <tr>
-      <th>Project</th>
-      <th>Visitors</th>
-      <th>Performance</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td><b>Cana Court</b></td>
-      <td>1.2k+</td>
-      <td><img src="https://progress-bar.dev/98/?width=100&color=FFD700" /></td>
-      <td>🟢 Live</td>
-    </tr>
-    <tr>
-      <td><b>Healthcare</b></td>
-      <td>850+</td>
-      <td><img src="https://progress-bar.dev/95/?width=100&color=FFD700" /></td>
-      <td>🟢 Live</td>
-    </tr>
-    <tr>
-      <td><b>Mansion</b></td>
-      <td>650+</td>
-      <td><img src="https://progress-bar.dev/92/?width=100&color=FFD700" /></td>
-      <td>🟢 Live</td>
+      <td align="center">
+        <h3>📈 Contribution Growth</h3>
+        <img src="https://metrics.lecoq.io/Mcaliweed?template=classic&isocalendar=1&languages=1&stars=1&habits=1&people=1&activity=1&achievements=1&notable=1&discussions=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.thanks=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&discussions=false&discussions.categories=true&discussions.categories.limit=0&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured" width="400" />
+      </td>
+      <td align="center">
+        <h3>⭐ Star History</h3>
+        <img src="https://star-history.com/embed?secret=Mcaliweed&Mcaliweed/portfolio&Mcaliweed/project2&Mcaliweed/project3&theme=dark" width="400" />
+      </td>
     </tr>
   </table>
 </div>
@@ -277,72 +335,9 @@
 
 <br>
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mcaliweed&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mcaliweed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<br>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mcaliweed&theme=react-dark&area=true&hide_border=true&color=FFD700&line=FFD700&point=FFFFFF" width="100%" />
-</div>
-
-<br>
-
-## 🔥 Streak Stats
-![](https://github-readme-stats.vercel.app/api?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tommy-devgit&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
 ## 📄 My CV
 [![Download CV](https://img.shields.io/badge/Download-CV-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mcaliweed/cv/raw/main/Kelvin_Kioko_CV.pdf)
 [![View Online](https://img.shields.io/badge/View-Online-FFD700?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mcaliweed.github.io/cv)
-
-<br>
-
-## 📊 Project Stats Dashboard
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Status</th>
-      <th>Tech Stack</th>
-      <th>Visitors</th>
-      <th>Progress</th>
-    </tr>
-    <tr>
-      <td><b>Cana Court</b></td>
-      <td>🟢 Live</td>
-      <td>HTML, CSS, JS, PHP</td>
-      <td><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fcanarental.netlify.app&label=Visitors&countColor=%23f47373" /></td>
-      <td><img src="https://progress-bar.dev/98/?width=80&color=FFD700" /></td>
-    </tr>
-    <tr>
-      <td><b>Healthcare</b></td>
-      <td>🟢 Live</td>
-      <td>HTML, CSS, JS, MySQL</td>
-      <td><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fmiritini.netlify.app&label=Visitors&countColor=%23f47373" /></td>
-      <td><img src="https://progress-bar.dev/95/?width=80&color=FFD700" /></td>
-    </tr>
-    <tr>
-      <td><b>Mansion</b></td>
-      <td>🟢 Live</td>
-      <td>HTML, CSS, JS, UI/UX</td>
-      <td><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fjustoarts.netlify.app&label=Visitors&countColor=%23f47373" /></td>
-      <td><img src="https://progress-bar.dev/92/?width=80&color=FFD700" /></td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
@@ -406,3 +401,15 @@ MySQL        10 hrs    ███████████░░░░░░░   
 [![](https://visitcount.itsvg.in/api?id=Mcaliweed&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with golden glitter by Kelvin Kioko ✨ -->
+
+<!-- Rising Contribution Graph Animation -->
+<style>
+@keyframes riseUp {
+  0% { transform: translateY(100px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+
+.rising-graph {
+  animation: riseUp 2s ease-out;
+}
+</style>
