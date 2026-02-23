@@ -16,18 +16,9 @@
 
 ## 📊 GitHub Analytics & Stats Dashboard
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=Mcaliweed&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Mcaliweed&theme=radical&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=9F9F9F&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tommy-devgit&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
@@ -155,9 +146,9 @@
 
 ## 🔥 Contribution Streak & Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mcaliweed&theme=radical&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=9F9F9F&hide_border=true" width="100%" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tommy-devgit&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
