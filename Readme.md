@@ -40,9 +40,9 @@
 - Built with HTML, CSS, JavaScript, and UI/UX principles
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mcaliweed&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mcaliweed&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcaliweed&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kevoh-Mcaliweed&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kevoh-Mcaliweed&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevoh-Mcaliweed&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mcaliweed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -80,4 +80,3 @@
  💝 Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mcaliweed) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mcaliweed)
 
-<!-- Proudly created with golden glitter by Kelvin Kioko ✨ -->
