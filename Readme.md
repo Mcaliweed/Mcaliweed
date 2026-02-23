@@ -1,7 +1,7 @@
-# ✨ KELVIN KIOKO - Full Stack Developer & UI/UX Designer ✨
+#  KELVIN KIOKO - Full Stack Developer & UI/UX Designer 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=FFD700&size=45&center=true&vCenter=true&width=700&height=100&lines=✨+Kelvin+Kioko+✨;Full+Stack+Developer;UI%2FUX+Designer;Golden+Glitter+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=FFD700&size=45&center=true&vCenter=true&width=700&height=100&lines=+Kelvin+Kioko+;Full+Stack+Developer;UI%2FUX+Designer;Golden+Glitter+Creator" alt="Typing SVG" />
 </div>
 
 <br>
