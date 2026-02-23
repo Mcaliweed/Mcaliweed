@@ -297,9 +297,9 @@
 <br>
 
 ## 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mcaliweed&theme=dark&background=0D1117&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=9F9F9F" width="100%" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tommy-devgit&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-devgit&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
