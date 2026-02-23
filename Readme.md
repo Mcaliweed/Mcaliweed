@@ -34,7 +34,9 @@
     <tr>
       <td width="60%" valign="top">
         <div style="background: linear-gradient(145deg, #0D1117, #1A1A2E); padding: 30px; border-radius: 20px; border: 2px solid #FFD700;">
-          <img src=""https://images.unsplash.com/photo-1531427186627-4fd8cb4c49a2?w=200&h=200&fit=crop&auto=format&q=80" style="border-radius: 50%; width: 120px; height: 120px; float: left; margin-right: 20px; border: 3px solid #FFD700";" />
+         <img src="https://avatars.githubusercontent.com/Mcaliweed" 
+     style="border-radius: 50%; width: 120px; height: 120px; float: left; margin-right: 20px; border: 3px solid #FFD700;" 
+     alt="Kelvin Kioko Profile Picture" />
           <h3 style="color: #FFD700; font-size: 24px;">Hello! I'm Kelvin Kioko</h3>
           <p style="color: #FFFFFF; font-size: 16px; line-height: 1.6;">A passionate Full Stack Developer and UI/UX Designer based in Kenya. I craft digital experiences with golden perfection and attention to every detail. With over 5 years of experience in web development, I specialize in creating responsive, user-friendly applications that solve real-world problems.</p>
         </div>
