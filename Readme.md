@@ -73,10 +73,10 @@
 - 📞 Call/SMS: **0706 802 630** / **0735 059 391**
 - 💬 WhatsApp: **+254 706 802 630**
 - 📧 Email: **kelvinkioko857@gmail.com**
-- 🌐 Portfolio: **mcaliweedx.netlify.app(#)**
+- 🌐 Portfolio: **Visit my website(#)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mcaliweed&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://mcaliweedx.netlify.app)
  💝 Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mcaliweed) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mcaliweed)
 
