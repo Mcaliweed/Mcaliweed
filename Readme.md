@@ -577,9 +577,9 @@
 
 ---
 <div align="center">
-  <strong style="color: #FFD700; font-size: 18px;">✨ Proudly created with golden glitter by Kelvin Kioko ✨</strong>
+  <strong style="color: #FFD700; font-size: 18px;">🙂 Proudly created by Kelvin Kioko 🙃</strong>
   <br>
-  <strong style="color: #FFFFFF;">🌟 Portfolio: <a href="https://mcaliweedx.netlify.app" style="color: #FFD700;">mcaliweedx.netlify.app</a> 🌟</strong>
+  <strong style="color: #FFFFFF;">👌 Portfolio: <a href="https://mcaliweedx.netlify.app" style="color: #FFD700;">mcaliweedx.netlify.app</a> 👌</strong>
 </div>
 
 <!-- Image Credits - All images from Unsplash -->
